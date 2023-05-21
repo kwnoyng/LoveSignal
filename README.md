@@ -37,13 +37,13 @@
 ![API 명세서](https://drive.google.com/uc?export=view&id=1jGJ_SSX3FKFUjskIUecsPU55TGDveKQZ)
 
 ## 주요 기능
-
+<div style="display: flex; align-items: center;">
 <img src="https://drive.google.com/uc?export=view&id=1Uf2cO28ZKpFoH55-8zY_CyR2ahcwyRq5" alt="icon" width="160" height="320" />
 <img src="https://drive.google.com/uc?export=view&id=10tRWSgXN6D5zIrbBOmSXb7x41XKveF_T" alt="icon" width="160" height="320" />
 <img src="https://drive.google.com/uc?export=view&id=1xMXIYc6H_JVOThl-7quyFvF0Mf1wE_ZC" alt="icon" width="160" height="320" />
-
 <img src="https://drive.google.com/uc?export=view&id=1RXYLRDN8EHiVRfZWyxopjM1mvzOUVGUA" alt="icon" width="160" height="320" />
 <img src="https://drive.google.com/uc?export=view&id=1stx-pYrmoUoghjxY1zw-QxdvDr-_5-iM" alt="icon" width="160" height="320" />
+</div>
 
 ### 동성 팀 매칭
 
